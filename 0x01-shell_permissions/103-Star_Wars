@@ -1,2 +1,2 @@
 #!/bin/bash
-telent towel.blinkenlights.nl
+echo -e "      .-.\n     |_:_|\n    /(_Y_)\    /\n   ( \/M\/ )\\n _.'-/'-'\-'._\n(/    ._.    \\)\n    \\ | /\n     |||\n     |||\n     |||\n     |||\n     |||\n  snd  |||\n       |||\n       |||\n       d||"
