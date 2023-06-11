@@ -1,9 +1,2 @@
-#!/bin/bash
-
-# Get the current working directory
-dir=$(pwd)
-
-# Change owner and group recursively for all files and directories
-chown -R vincent:staff "$dir"
-
-
+#!/bin/bash 
+chown -R vincent:staff .
